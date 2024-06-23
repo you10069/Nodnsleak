@@ -14,7 +14,7 @@ ruleset=DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ch
 ruleset=DIRECT,[]GEOIP,CN
 ruleset=🚀 节点选择,[]FINAL
 
-custom_proxy_group=🚀 节点选择`select`[]♻️ 自动选择`[]DIRECT`.*
+custom_proxy_group=🚀 节点选择`select`[]DIRECT`.*
 
 enable_rule_generator=true
 overwrite_original_rules=true
