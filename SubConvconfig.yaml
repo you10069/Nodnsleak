@@ -112,63 +112,19 @@ RULESET:
 - - 🐟 漏网之鱼
   - '[]FINAL'
 CUSTOM_PROXY_GROUP:
-- name: ♻️ 自动选择
-  type: url-test
-  rule: false
 - name: 🚀 手动切换1
   type: select
   manual: true
   rule: false
-- name: 🚀 手动切换2
-  type: select
-  manual: true
-  rule: false
-- name: 🔯 故障转移
-  type: fallback
-  rule: false
-- name: 🔮 负载均衡
-  type: load-balance
-  rule: false
-- name: 🔮 香港负载均衡
-  type: load-balance
-  rule: false
-  regex: 🇭🇰|HK|Hong|Kong|HGC|WTT|CMI|港
 - name: 🤖 ChatBot
   type: select
   prior: PROXY
 - name: 📲 电报消息
   type: select
   prior: PROXY
-- name: 📹 油管视频
-  type: select
-  prior: PROXY
-- name: 🎥 奈飞视频
-  type: select
-  prior: PROXY
-- name: 📺 巴哈姆特
-  type: select
-  prior: PROXY
-- name: 📺 哔哩哔哩
-  type: select
-  prior: DIRECT
-- name: 🌍 国外媒体
-  type: select
-  prior: PROXY
-- name: 🌏 国内媒体
-  type: select
-  prior: DIRECT
-- name: 📢 谷歌FCM
-  type: select
-  prior: DIRECT
 - name: 📢 谷歌服务
   type: select
   prior: PROXY
-- name: Ⓜ️ 微软Bing
-  type: select
-  prior: PROXY
-- name: Ⓜ️ 微软云盘
-  type: select
-  prior: DIRECT
 - name: Ⓜ️ 微软服务
   type: select
   prior: DIRECT
@@ -176,12 +132,6 @@ CUSTOM_PROXY_GROUP:
   type: select
   prior: DIRECT
 - name: 🎮 游戏平台
-  type: select
-  prior: DIRECT
-- name: 🎶 网易音乐
-  type: select
-  prior: DIRECT
-- name: 🎶 Spotify
   type: select
   prior: DIRECT
 - name: 🎯 全球直连
