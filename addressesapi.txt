@@ -6,14 +6,6 @@ cm.xxxxxxxx.tk#OTC-移动
 cmv6.xxxxxxxx.tk#OTC-移动V6
 cn.xxxxxxxx.tk#OTC-CN
 cnv6.xxxxxxxx.tk#OTC-CNV6
-visa.cn:443#visa1
-www.visa.com:8443#visa2
-cis.visa.com:2053#visa3
-africa.visa.com:2083#visa4
-www.visa.com.sg:2087#visa5
-www.visaeurope.at:2096#visa6
-www.visa.com.mt:8443#visa7
-qa.visamiddleeast.com#visa8
 time.is#time
 www.wto.org:8443#wto
 104.17.0.0#IPv4
