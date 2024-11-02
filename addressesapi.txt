@@ -7,6 +7,5 @@ cmv6.xxxxxxxx.tk#OTC-移动V6
 cn.xxxxxxxx.tk#OTC-CN
 cnv6.xxxxxxxx.tk#OTC-CNV6
 time.is#time
-www.wto.org:8443#wto
 104.17.0.0#IPv4
 [2606:4700::]#IPv6
