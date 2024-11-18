@@ -25,6 +25,7 @@
 cf.090227.xyz#三网自适应
 ct.090227.xyz#电信优选
 cmcc.090227.xyz#移动优选
+cfip.xxxxxxxx.tk#OTC提供维护
 cu.xxxxxxxx.tk:443#OTC-联通
 cuv6.xxxxxxxx.tk:443#OTC-联通V6
 ct.xxxxxxxx.tk#OTC-电信
@@ -43,7 +44,6 @@ www.gov.se#gov1
 www.gov.ua#gov2
 104.17.0.0#IPv4
 [2606:4700::]#IPv6
-cfip.xxxxxxxx.tk#OTC提供维护
 bestcf.onecf.eu.org#Mingyu提供维护
 cf.zhetengsha.eu.org#小一提供维护
 acjp2.cloudflarest.link#KJKKK维护
