@@ -24,10 +24,10 @@ cn.xxxxxxxx.tk#OTC-CN
 cnv6.xxxxxxxx.tk#OTC-CNV6
 proxy.xxxxxxxx.tk#OTC-提供反代
 time.is#time
+singapore.com#singapore
 japan.com#japan
 malaysia.com#malaysis
 russia.com#russia
-singapore.com#singapore
 www.gco.gov.qa#gco
 www.gov.se#gov1
 www.gov.ua#gov2
