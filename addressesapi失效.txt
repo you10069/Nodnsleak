@@ -1,3 +1,10 @@
 yx.887141.xyz#887141提供
 bestcf.onecf.eu.org#Mingyu提供
 bestproxy.onecf.eu.org#Mingyu提供反代
+cu.xxxxxxxx.tk#OTC-联通
+cuv6.xxxxxxxx.tk#OTC-联通V6
+ct.xxxxxxxx.tk#OTC-电信
+ctv6.xxxxxxxx.tk#OTC-电信V6
+cm.xxxxxxxx.tk#OTC-移动
+cmv6.xxxxxxxx.tk#OTC-移动V6
+proxy.xxxxxxxx.tk#OTC-提供反代
