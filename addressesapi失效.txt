@@ -8,3 +8,5 @@ ctv6.xxxxxxxx.tk#OTC-电信V6
 cm.xxxxxxxx.tk#OTC-移动
 cmv6.xxxxxxxx.tk#OTC-移动V6
 proxy.xxxxxxxx.tk#OTC-提供反代
+acjp2.cloudflarest.link#KJKKK提供
+achk.cloudflarest.link#KJKKK提供
