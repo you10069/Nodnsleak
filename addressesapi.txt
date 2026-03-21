@@ -26,6 +26,9 @@ proxy.xxxxxxxx.tk#OTC-提供反代
 www.gov.ua#goua
 www.gov.se#gose
 www.gco.gov.qa#gco
+mfa.gov.ua#乌克兰外交部
+www.shopify.com#shopify
+www.visa.cn#Visa中国
 www.visa.com.hk#visahk
 www.visa.com.tw#visatw
 www.visa.com.sg#visasg
@@ -52,4 +55,4 @@ yx.887141.xyz#887141提供
 cf.515188.xyz#515188提供
 cf.345673.xyz#345673提
 cf-st.annoy.eu.org#annoy提供
-shopify.com#shopify
+
