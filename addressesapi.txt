@@ -4,6 +4,8 @@ ct.090227.xyz#CM电信
 cmcc.090227.xyz#CM移动
 cf.tencentapp.cn#TXapp维护ktff1
 # tencentapp.cn#TXapp维护ktff2
+# cloudflare-dl.byoip.top#fishcpy维护1
+cloudflare-ip.mofashi.ltd#fishcpy维护2
 www.visa.cn#visaCN
 www.visa.com.hk#visaHK
 www.visa.com.tw#visaTW
@@ -23,8 +25,6 @@ icook.hk:2053#icookHK2053
 icook.tw#icookTW
 icook.tw:2053#icookTW2053
 time.is#timeis
-cloudflare-dl.byoip.top#fishcpy维护1
-cloudflare-ip.mofashi.ltd#fishcpy维护2
 cf.877771.xyz#877771提供
 cf.877774.xyz#秋名山维护
 saas.sin.fan#MIYU维护
