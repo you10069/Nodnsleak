@@ -22,7 +22,7 @@ icook.tw#icookTW
 icook.tw:2053#icookTW2053
 time.is#timeis
 cf.tencentapp.cn#TXapp维护ktff1
-tencentapp.cn#TXapp维护ktff2
+# tencentapp.cn#TXapp维护ktff2
 cloudflare-dl.byoip.top#fishcpy维护1
 cloudflare-ip.mofashi.ltd#fishcpy维护2
 cf.877771.xyz#877771提供
