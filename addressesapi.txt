@@ -36,7 +36,6 @@ cn.xxxxxxxx.tk#OTC-CN
 cnv6.xxxxxxxx.tk#OTC-CNV6
 cf.0sm.com#0sm
 xn--b6gac.eu.org#KJKKK提供
-cf.zhetengsha.eu.org#小一提供
 freeyx.cloudflare88.eu.org#cf88
 cdns.doon.eu.org#doon
 fn.130519.xyz#130519
