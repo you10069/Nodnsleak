@@ -45,8 +45,6 @@ malaysia.com#malaysis
 russia.com#russia
 ip.sb#ipsb
 skk.moe#skk.moe
-104.17.0.0#IPv4
-[2606:4700::]#IPv6
 104.27.19.125:443#v4优选1
 172.64.107.158:443#v4优选2
 104.24.2.0:443#v4优选3
