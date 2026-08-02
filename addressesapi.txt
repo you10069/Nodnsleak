@@ -4,7 +4,6 @@ ct.090227.xyz#CM电信
 cmcc.090227.xyz#CM移动
 cf.tencentapp.cn#TXapp维护ktff1
 cloudflare-ip.mofashi.ltd#fishcpy维护2
-# cf.877771.xyz#877771提供
 cf.877774.xyz#秋名山维护
 saas.sin.fan#MIYU维护
 www.visa.cn#visaCN
