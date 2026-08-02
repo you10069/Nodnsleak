@@ -17,6 +17,9 @@ cf.515188.xyz#515188
 cf.900501.xyz#900501
 8.889288.xyz#889288
 
+# tencentapp.cn#TXapp维护ktff2
+# cloudflare-dl.byoip.top#fishcpy维护1
+
 cf.zhetengsha.eu.org#小一提供
 777.ai7777777.xyz#ai777
 cfip.cfcdn.vip#cfcdn
